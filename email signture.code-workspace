@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../email signture"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lesson folder"
+	}
+}
